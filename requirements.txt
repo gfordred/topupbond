@@ -1,5 +1,5 @@
-streamlit
-pandas
-plotly
-python-dateutil
-scipy
+streamlit==1.29.0
+pandas==2.1.1
+plotly==5.17.0
+python-dateutil==2.8.2
+scipy==1.13.0
